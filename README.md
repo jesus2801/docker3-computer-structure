@@ -7,7 +7,7 @@ This repository executes a given program and measures its consumed time. Only th
 Add a new instance and clone the repository:
 
 ```
-git clone git@github.com:jesus2801/docker3-computer-structure.git
+git clone https://github.com/jesus2801/docker3-computer-structure.git
 ```
 
 then, move to the folder:
